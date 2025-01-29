@@ -4,6 +4,7 @@ Overview
 
 Recycling Classification App is an AI-powered mobile application designed to assist users in correctly identifying and disposing of waste items.
 
+
 Features
 
 📸 Real-Time Waste Classification
