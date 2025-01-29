@@ -36,3 +36,14 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+# Sensitive credentials
+*.json
+firebaseConfig.js
+.env
+
+# Google Cloud credentials
+steady-dryad-448313-f7-*.json
+
+# Firebase config
+firebase-config.js
+firebase-credentials.js
