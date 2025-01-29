@@ -1,41 +1,106 @@
-# Recycling Classification App 🌱
+Recycling Classification App 🌱
 
-An AI-powered mobile application that helps users correctly classify and dispose of waste items.
+Overview
 
-## Features
+Recycling Classification App is an AI-powered mobile application designed to assist users in correctly identifying and disposing of waste items.
 
-- 📸 Real-time waste classification using camera
-- 🗑️ Multiple waste categories:
-  - Cardboard
-  - Food Waste
-  - Glass
-  - Metal
-  - Paper
-  - Plastic
-  - Other
-- 📱 User-friendly interface
-- ✅ Detailed recycling instructions
-- 🔄 User feedback system
+Features
 
-## Tech Stack
+📸 Real-Time Waste Classification
 
-- Frontend: React Native/Expo
-- Backend: Flask
-- Deep Learning Model: Xception Model (TensorFlow Lite)
-- Cloud Services: 
-  - Google Cloud Vision API (for improved predictions)
-  - Firebase (database)
-  - Render.com (hosting)
+Users can use their device’s camera to scan waste items.
 
-## How to Use
+AI-powered classification provides instant results with high accuracy.
 
-1. Open the app
-2. Click "Scan Now"
-3. Take a photo of the item
-4. Get instant classification with recycling instructions
+🗑️ Multiple Waste Categories
 
-## Installation
+The model can classify waste into the following categories:
 
-```bash
-npm install
-npm start
+Cardboard
+
+Food Waste
+
+Glass
+
+Metal
+
+Paper
+
+Plastic
+
+Other (uncategorized/general waste)
+
+📱 User-Friendly Interface
+
+Intuitive design with simple navigation for ease of use.
+
+Clear instructions for scanning and viewing results.
+
+✅ Detailed Recycling Instructions
+
+Provides users with proper disposal guidelines based on local recycling regulations.
+
+Suggests ways to reduce waste and reuse materials whenever applicable.
+
+🔄 User Feedback System
+
+Users can manually correct classifications to improve model accuracy over time.
+
+Feedback helps refine future predictions and enhance model learning.
+
+Tech Stack
+
+🎨 Frontend
+
+React Native with Expo for cross-platform mobile development (Android & iOS).
+
+Responsive UI with modern design principles.
+
+🧱 Backend
+
+Flask (Python-based lightweight backend framework) for handling API requests.
+
+RESTful API endpoints for communication between mobile app and server.
+
+🤖 AI & Machine Learning
+
+Deep Learning Model: Xception Model (TensorFlow Lite optimized for mobile inference).
+
+Google Cloud Vision API: Enhances recognition for ambiguous items.
+
+☁️ Cloud Services
+
+Firebase (NoSQL database) for storing user preferences, feedback, and recycling information.
+
+Render.com for hosting backend services and managing API endpoints.
+
+How It Works
+
+Open the app.
+
+Tap "Scan Now" to start waste classification.
+
+Capture an image of the waste item.
+
+AI processes the image and provides:
+
+Classification result
+
+Recycling instructions
+
+Users can provide feedback if the classification is incorrect.
+
+Proper disposal guidelines are shown based on location-based recommendations.
+
+
+Future Enhancements
+
+🔍 AI Model Improvement: Continuous updates with more training data.
+
+📈 Analytics Dashboard: Track waste disposal habits and impact.
+
+🌟 Gamification: Reward users for sustainable waste disposal.
+
+🌱 Community Challenges: Encourage group efforts in recycling initiatives.
+
+This AI-powered app is a step towards a cleaner and greener planet! 🌍🌱
