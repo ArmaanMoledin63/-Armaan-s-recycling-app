@@ -21,7 +21,7 @@ An AI-powered mobile application that helps users correctly classify and dispose
 
 - Frontend: React Native/Expo
 - Backend: Flask
-- ML Model: Xception Model (TensorFlow Lite)
+- Deep Learning Model: Xception Model (TensorFlow Lite)
 - Cloud Services: 
   - Google Cloud Vision API (for improved predictions)
   - Firebase (database)
