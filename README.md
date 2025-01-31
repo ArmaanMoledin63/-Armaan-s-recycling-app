@@ -75,6 +75,12 @@ Firebase (NoSQL database) for storing user preferences, feedback, and recycling 
 
 Render.com for hosting backend services and managing API endpoints.
 
+🧱 Command Line Interface:
+
+GitBash: To upload code on github and handle conversion of large files 
+
+Render(Cloud) Logs: To monitor predictions server sends to app
+
 How It Works
 
 Open the app.
