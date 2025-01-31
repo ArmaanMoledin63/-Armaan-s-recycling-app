@@ -91,7 +91,7 @@ Recycling instructions
 
 Users can provide feedback if the classification is incorrect.
 
-Proper disposal guidelines are shown based on location-based recommendations.
+Proper disposal guidelines are shown
 
 
 Future Enhancements
