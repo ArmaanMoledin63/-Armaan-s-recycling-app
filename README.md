@@ -97,10 +97,9 @@ Recycling instructions
 
 Users can provide feedback if the classification is incorrect.
 
-Proper disposal guidelines are shown
+Proper disposal guidelines are shown 
 
-
-Future Enhancements
+Enhancements I am working on:
 
 🔍 AI Model Improvement: Continuous updates with more training data.
 
