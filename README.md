@@ -65,7 +65,7 @@ RESTful API endpoints for communication between mobile app and server.
 
 🤖 AI & Machine Learning
 
-Deep Learning Model: Xception Model (TensorFlow Lite optimized for mobile inference).
+Deep Learning Model: Xception Model-97% Accuracy (TensorFlow Lite optimized for mobile inference).
 
 Google Cloud Vision API: Enhances recognition for ambiguous items.
 
