@@ -1,11 +1,11 @@
-Recycling Classification App 🌱
+**Recycling Classification App** 🌱
 
 Overview
 
 Recycling Classification App is an AI-powered mobile application designed to assist users in correctly identifying and disposing of waste items.
 
 
-Features
+**Features**
 
 📸 Real-Time Waste Classification
 
@@ -49,7 +49,7 @@ Users can manually correct classifications to improve model accuracy over time.
 
 Feedback helps refine future predictions and enhance model learning.
 
-Tech Stack
+**Tech Stack**
 
 🎨 Frontend
 
@@ -81,7 +81,7 @@ GitBash: To upload code on github and handle conversion of large files
 
 Render(Cloud) Logs: To monitor predictions server sends to app
 
-How It Works
+**How It Works**
 
 Open the app.
 
@@ -99,7 +99,7 @@ Users can provide feedback if the classification is incorrect.
 
 Proper disposal guidelines are shown 
 
-Enhancements I am working on:
+**Enhancements I am working on:**
 
 🔍 AI Model Improvement: Continuous updates with more training data.
 
