@@ -1,3 +1,7 @@
+**Author**
+
+Created by Armaan Moledina
+
 **Recycling Classification App** 🌱
 
 Overview
