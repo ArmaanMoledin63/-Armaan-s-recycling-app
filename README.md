@@ -110,3 +110,7 @@ Proper disposal guidelines are shown
 🌱 Community Challenges: Encourage group efforts in recycling initiatives.
 
 This AI-powered app is a step towards a cleaner and greener planet! 🌍🌱
+
+**Author**
+
+Created by Armaan Moledina
