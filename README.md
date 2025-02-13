@@ -17,7 +17,7 @@ Users can use their device’s camera to scan waste items.
 
 AI-powered classification provides instant results with high accuracy.
 
-🗑️ Multiple Waste Categories
+🗑️ Multiple Waste Categories included 
 
 The model can classify waste into the following categories:
 
