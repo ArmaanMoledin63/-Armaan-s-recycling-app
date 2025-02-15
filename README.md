@@ -67,7 +67,7 @@ Flask (Python-based lightweight backend framework) for handling API requests.
 
 RESTful API endpoints for communication between mobile app and server.
 
-🤖 AI & Machine Learning
+🤖 Deep Learning:
 
 Deep Learning Model: Xception Model-97% Accuracy (TensorFlow Lite optimized for mobile inference).
 
