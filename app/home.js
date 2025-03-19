@@ -76,6 +76,7 @@ export default function HomeScreen() {
 }
 
 const styles = StyleSheet.create({
+<<<<<<< HEAD
   container: {
     flex: 1,
     backgroundColor: '#f3faf1',
@@ -167,3 +168,80 @@ const styles = StyleSheet.create({
     padding: 5,
   }
 });
+=======
+ container: {
+   flex: 1,
+   backgroundColor: '#f3faf1',
+ },
+ welcomeSection: {
+   padding: 20,
+   paddingTop: 40,
+ },
+ title: {
+   fontSize: 28,
+   fontWeight: 'bold',
+   color: '#75b867',
+   marginBottom: 10,
+ },
+ subtitle: {
+   fontSize: 24,
+   color: '#75b867',
+   marginBottom: 5,
+ },
+ description: {
+   fontSize: 16,
+   color: '#666',
+   marginBottom: 20,
+ },
+ scanButton: {
+   backgroundColor: '#75b867',
+   flexDirection: 'row',
+   alignItems: 'center',
+   justifyContent: 'center',
+   padding: 15,
+   borderRadius: 25,
+   marginTop: 10,
+ },
+ cameraIcon: {
+   marginRight: 10,
+ },
+ scanButtonText: {
+   color: 'white',
+   fontSize: 18,
+   fontWeight: '500',
+ },
+ featuresGrid: {
+   padding: 20,
+   backgroundColor: '#e8f5e3',
+   borderRadius: 20,
+   margin: 20,
+ },
+ row: {
+   flexDirection: 'row',
+   justifyContent: 'space-between',
+   marginBottom: 20,
+ },
+ gridItem: {
+   alignItems: 'center',
+   width: '45%',
+ },
+ gridText: {
+   fontSize: 16,
+   color: '#444',
+   marginTop: 8,
+ },
+ bottomNav: {
+   flexDirection: 'row',
+   justifyContent: 'space-around',
+   alignItems: 'center',
+   backgroundColor: '#75b867',
+   padding: 15,
+   position: 'absolute',
+   bottom: 0,
+   width: '100%',
+ },
+ navItem: {
+   padding: 5,
+ }
+});
+>>>>>>> 422308ed7fe3677c7a3c79bca3a3ed25cdd9ee81
