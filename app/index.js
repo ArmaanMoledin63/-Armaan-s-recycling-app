@@ -1,11 +1,12 @@
-import 'dotenv/config';
-
+// app/index.js
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Image } from 'react-native';
-import { Link } from 'expo-router';
+import { useRouter } from 'expo-router';
 import { LinearGradient } from 'expo-linear-gradient';
 
 export default function Welcome() {
+  const router = useRouter();
+
   return (
     <LinearGradient
       colors={['#e3fbe5', '#4fabaa']} // Gradient background colors
@@ -22,11 +23,12 @@ export default function Welcome() {
       <Text style={styles.subtitle}>
         Snap, classify, and recycle waste effortlessly for a greener planet!
       </Text>
-      <Link href="home" asChild>
-        <TouchableOpacity style={styles.button}>
-          <Text style={styles.buttonText}>Get Started →</Text>
-        </TouchableOpacity>
-      </Link>
+      <TouchableOpacity 
+        style={styles.button} 
+        onPress={() => router.replace('home')}
+      >
+        <Text style={styles.buttonText}>Get Started →</Text>
+      </TouchableOpacity>
     </LinearGradient>
   );
 }

@@ -1,3 +1,4 @@
+// app/camera.js
 import React, { useState } from 'react';
 import { View, Image, StyleSheet, Text, TouchableOpacity, Alert } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
