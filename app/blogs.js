@@ -1,5 +1,5 @@
 // app/blogs.js
-import React, { useState } from 'react';
+import React, { useState } from 'react;
 import { 
   View, 
   Text, 
