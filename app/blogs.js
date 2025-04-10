@@ -1,7 +1,7 @@
 // app/blogs.js
 import React, { useState } from 'react;
 import { 
-  View, 
+  View,
   Text, 
   StyleSheet, 
   ScrollView, 
