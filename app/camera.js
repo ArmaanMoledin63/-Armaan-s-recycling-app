@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { View, Image, StyleSheet, Text, TouchableOpacity, Alert } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
-
+// server hosted on render 
 const API_URL = 'https://recycling-server.onrender.com/predict';
 
 export default function Camera() {
